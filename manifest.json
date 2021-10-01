@@ -1,0 +1,14 @@
+﻿{
+  "name": "Xenoblade Chronicles 2: Torna the Golden Country",
+  "game_name": "Xenoblade2Torna",
+  "platform": "switch",
+  "package_version": "0.0.0.1",
+  "package_uid": "torna",
+  "layout_engine_version": "1.0",
+  "author": "ClassicRagu",
+  "variants": {
+    "classic": {
+      "display_name": "Classic"
+    }
+  }
+}
