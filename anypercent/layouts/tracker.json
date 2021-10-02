@@ -1,0 +1,237 @@
+{
+    "lansaria_item_grid": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,1",
+      "rows": [
+        [
+          "deviledonion",
+          "souravocado",
+          "tawnycarrot",
+          "luckylettuce"
+        ],
+        [
+          "tornantrout",
+          "grimdarkcrab",
+          "hornedsculpin"
+        ],
+        [
+          "cottonbranch",
+          "corkscrewcreeper"
+        ],
+        [
+          "lilyofthesunnyvalley",
+          "weepingflour",
+          "shepherdscoronet",
+          "bladedholly"
+        ],
+        [
+          "rarestone"
+        ],
+        [
+          "sandupa"
+        ],
+        [
+          "vibrantflammiwings",
+          "volffbeastmeat"
+        ]
+      ]
+    },
+    "aletta_item_grid": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,1",
+      "rows": [
+        [
+          "deviledonion",
+          "souravocado",
+          "lactonut",
+          "tawnycarrot",
+          "luckylettuce"
+        ],
+        [
+          "grimdarkcrab",
+          "hornedsculpin"
+        ],
+        [
+          "corkscrewcreeper",
+          "curiousrottingleaves"
+        ],
+        [
+          "weepingflour",
+          "angelsage",
+          "shepherdscoronet",
+          "bladedholly"
+        ],
+        [
+          "sandupa"
+        ],
+        [
+          "nestextract"
+        ]
+      ]
+    },
+    "dannagh_item_grid": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,1",
+      "rows": [
+        [
+          "deviledonion",
+          "souravocado",
+          "luckylettuce"
+        ],
+        [
+          "hornedsculpin"
+        ],
+        [
+          "cottonbranch",
+          "corkscrewcreeper",
+          "curiousrottingleaves"
+        ],
+        [
+          "lilyofthesunnyvalley",
+          "weepingflour",
+          "angelsage",
+          "shepherdscoronet",
+          "bladedholly"
+        ],
+        [
+          "sandupa"
+        ]
+      ]
+    },
+    "auresco_item_grid": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,1",
+      "rows": [
+        [
+          "deviledonion",
+          "luckylettuce"
+        ],
+        [
+          "hornedsculpin"
+        ],
+        [
+          "cottonbranch",
+          "curiousrottingleaves"
+        ],
+        [
+          "lilyofthesunnyvalley",
+          "weepingflour",
+          "angelsage",
+          "shepherdscoronet"
+        ]
+      ]
+    },
+    "gormott_item_grid": {
+      "type": "itemgrid",
+      "h_alignment": "center",
+      "item_margin": "1,1",
+      "rows": [
+        [
+          "meatycarrot",
+          "hustlehyacinth",
+          "sumpkin",
+          "hotorange"
+        ],
+        [
+          "puzzletreewood",
+          "confusionivy",
+          "musclebranch",
+          "mementobark",
+          "deerwood"
+        ],
+        [
+          "ruskaflower",
+          "sunflowerrogue",
+          "pandapansy",
+          "dawnhydrangea"
+        ],
+        [
+          "dicystone",
+          "floralsoil",
+          "forrestone"
+        ],
+        [
+          "gregariousscorpion",
+          "stickystickinsect"
+        ],
+        [
+          "krabblecarapace",
+          "ferisbeastmeat",
+          "bunnitbunnymeat"
+        ]
+      ]
+    },
+    "tracker_default": {
+      "type": "container",
+      "content": {
+        "type": "dock",
+        "dropshadow": true,
+        "content": [
+          {
+            "type": "group",
+            "header": "Lasaria",
+            "content": [
+              {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 1,
+                "key": "lansaria_item_grid"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "header": "Gormott",
+            "content": [
+              {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 1,
+                "key": "gormott_item_grid"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "header": "Aletta",
+            "content": [
+              {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 1,
+                "key": "aletta_item_grid"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "header": "Dannagh",
+            "content": [
+              {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 1,
+                "key": "dannagh_item_grid"
+              }
+            ]
+          },
+          {
+            "type": "group",
+            "header": "Auresco",
+            "content": [
+              {
+                "type": "layout",
+                "dropshadow": false,
+                "margin": 1,
+                "key": "auresco_item_grid"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

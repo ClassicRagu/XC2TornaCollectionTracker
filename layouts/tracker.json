@@ -1,5 +1,5 @@
 ﻿{
-  "lansaria_item_grid": {
+  "lasaria_item_grid": {
     "type": "itemgrid",
     "h_alignment": "center",
     "item_margin": "1,1",
@@ -169,13 +169,13 @@
       "content": [
         {
           "type": "group",
-          "header": "Lansaria",
+          "header": "Lasaria",
           "content": [
             {
               "type": "layout",
               "dropshadow": false,
               "margin": 1,
-              "key": "lansaria_item_grid"
+              "key": "lasaria_item_grid"
             }
           ]
         },

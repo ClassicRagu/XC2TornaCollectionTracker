@@ -1,0 +1,389 @@
+﻿[
+  // Deviled Onion
+  {
+    "name": "Deviled Onion",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "deviledonion"
+  },
+  // Sour Avocado
+  {
+    "name": "Sour Avocado",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 11,
+    "increment": 1,
+    "codes": "souravocado"
+  },
+  // Lactonut
+  {
+    "name": "Lactonut",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "lactonut"
+  },
+  // Tawny Carrot
+  {
+    "name": "Tawny Carrot",
+    "type": "consumable",
+    "img": "images/vegetable1.png",
+    "max_quantity": 5,
+    "increment": 1,
+    "codes": "tawnycarrot"
+  },
+  // Lucky Lettuce
+  {
+    "name": "Lucky Lettuce",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 5,
+    "increment": 1,
+    "codes": "luckylettuce"
+  },
+  // Meaty Carrot
+  {
+    "name": "Meaty Carrot",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "meatycarrot"
+  },
+  // Hustle Hyacinth
+  {
+    "name": "Hustle Hyacinth",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 4,
+    "increment": 1,
+    "codes": "hustlehyacinth"
+  },
+  // Sumpkin
+  {
+    "name": "Sumpkin",
+    "type": "consumable",
+    "img": "images/vegetable1.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "sumpkin"
+  },
+  // Hot Orange
+  {
+    "name": "Hot Orange",
+    "type": "consumable",
+    "img": "images/vegetable.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "hotorange"
+  },
+  // Tornan Trout
+  {
+    "name": "Tornan Trout",
+    "type": "consumable",
+    "img": "images/fish.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "tornantrout"
+  },
+  // Grimdark Crab
+  {
+    "name": "Grimdark Crab",
+    "type": "consumable",
+    "img": "images/fish1.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "grimdarkcrab"
+  },
+  // Horned Sculpin
+  {
+    "name": "Horned Sculpin",
+    "type": "consumable",
+    "img": "images/fish.png",
+    "max_quantity": 10,
+    "increment": 1,
+    "codes": "hornedsculpin"
+  },
+  // Burred Clam
+  {
+    "name": "Burred Clam",
+    "type": "consumable",
+    "img": "images/fish1.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "burredclam"
+  },
+  // Cotton Branch
+  {
+    "name": "Cotton Branch",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 7,
+    "increment": 1,
+    "codes": "cottonbranch"
+  },
+  // Corkscrew Creeper
+  {
+    "name": "Corkscrew Creeper",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 4,
+    "increment": 1,
+    "codes": "corkscrewcreeper"
+  },
+  // Curious Rotting Leaves
+  {
+    "name": "Curious Rotting Leaves",
+    "type": "consumable",
+    "img": "images/wood1.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "curiousrottingleaves"
+  },
+  // Puzzletree Wood
+  {
+    "name": "Puzzletree Wood",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 11,
+    "increment": 1,
+    "codes": "puzzletreewood"
+  },
+  // Confusion Ivy
+  {
+    "name": "Confusion Ivy",
+    "type": "consumable",
+    "img": "images/wood1.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "confusionivy"
+  },
+  // Muscle Branch
+  {
+    "name": "Muscle Branch",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 10,
+    "increment": 1,
+    "codes": "musclebranch"
+  },
+  // Memento Bark
+  {
+    "name": "Memento Bark",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 7,
+    "increment": 1,
+    "codes": "mementobark"
+  },
+  // Deer Wood
+  {
+    "name": "Deer Wood",
+    "type": "consumable",
+    "img": "images/wood.png",
+    "max_quantity": 4,
+    "increment": 1,
+    "codes": "deerwood"
+  },
+  // Lily of the Sunny Valley
+  {
+    "name": "Lily of the Sunny Valley",
+    "type": "consumable",
+    "img": "images/flower.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "codes": "lilyofthesunnyvalley"
+  },
+  // Weeping Flour
+  {
+    "name": "Weeping Flour",
+    "type": "consumable",
+    "img": "images/flower.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "codes": "weepingflour"
+  },
+  // Angel Sage
+  {
+    "name": "Angel Sage",
+    "type": "consumable",
+    "img": "images/flower.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "angelsage"
+  },
+  // Shepherds Coronet
+  {
+    "name": "Shepherds Coronet",
+    "type": "consumable",
+    "img": "images/flower2.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "shepherdscoronet"
+  },
+  // Bladed Holly
+  {
+    "name": "Bladed Holly",
+    "type": "consumable",
+    "img": "images/flower1.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "bladedholly"
+  },
+  // Ruska Flower
+  {
+    "name": "Ruska Flower",
+    "type": "consumable",
+    "img": "images/flower.png",
+    "max_quantity": 6,
+    "increment": 1,
+    "codes": "ruskaflower"
+  },
+  // Sunflower Rogue
+  {
+    "name": "Sunflower Rogue",
+    "type": "consumable",
+    "img": "images/flower1.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "sunflowerrogue"
+  },
+  // Panda Pansy
+  {
+    "name": "Panda Pansy",
+    "type": "consumable",
+    "img": "images/flower.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "pandapansy"
+  },
+  // Dawn Hydrangea
+  {
+    "name": "Dawn Hydrangea",
+    "type": "consumable",
+    "img": "images/flower2.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "dawnhydrangea"
+  },
+  // Rarestone
+  {
+    "name": "Rarestone",
+    "type": "consumable",
+    "img": "images/rock.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "rarestone"
+  },
+  // Dicy Stone
+  {
+    "name": "Dicy Stone",
+    "type": "consumable",
+    "img": "images/rock.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "codes": "dicystone"
+  },
+  // Floral Soil
+  {
+    "name": "Floral Soil",
+    "type": "consumable",
+    "img": "images/rock1.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "floralsoil"
+  },
+  // Forrestone
+  {
+    "name": "Forrestone",
+    "type": "consumable",
+    "img": "images/rock.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "forrestone"
+  },
+  // Sand Upa
+  {
+    "name": "Sand Upa",
+    "type": "consumable",
+    "img": "images/bug.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "sandupa"
+  },
+  // Gregarious Scorpion
+  {
+    "name": "Gregarious Scorpion",
+    "type": "consumable",
+    "img": "images/bug.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "gregariousscorpion"
+  },
+  // Sticky Stick Insect
+  {
+    "name": "Sticky Stick Insect",
+    "type": "consumable",
+    "img": "images/bug.png",
+    "max_quantity": 15,
+    "increment": 1,
+    "codes": "stickystickinsect"
+  },
+  // Vibrant Flammi Wings
+  {
+    "name": "Vibrant Flammi Wings",
+    "type": "consumable",
+    "img": "images/enemy.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "vibrantflammiwings"
+  },
+  // Krabble Carapace
+  {
+    "name": "Krabble Carapace",
+    "type": "consumable",
+    "img": "images/enemy.png",
+    "max_quantity": 1,
+    "increment": 1,
+    "codes": "krabblecarapace"
+  },
+  // Feris Beastmeat
+  {
+    "name": "Feris Beastmeat",
+    "type": "consumable",
+    "img": "images/enemy1.png",
+    "max_quantity": 10,
+    "increment": 1,
+    "codes": "ferisbeastmeat"
+  },
+  // Nest Extract
+  {
+    "name": "Nest Extract",
+    "type": "consumable",
+    "img": "images/enemy.png",
+    "max_quantity": 5,
+    "increment": 1,
+    "codes": "nestextract"
+  },
+  // Volff Beastmeat
+  {
+    "name": "Volff Beastmeat",
+    "type": "consumable",
+    "img": "images/enemy.png",
+    "max_quantity": 2,
+    "increment": 1,
+    "codes": "volffbeastmeat"
+  },
+  // Bunnit Bunnymeat
+  {
+    "name": "Bunnit Bunnymeat",
+    "type": "consumable",
+    "img": "images/enemy.png",
+    "max_quantity": 16,
+    "increment": 1,
+    "codes": "bunnitbunnymeat"
+  }
+]
